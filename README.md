@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Travel with comfort: Trains that are not inferior to five-star hotels in terms of luxury.
 
-You can use the [editor on GitHub](https://github.com/daedica/travel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](hotel0.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Railway travel is a special world, which has its own connoisseurs. And if you go on extra-class trains, it will create the illusion of a return to the past era, when there were no planes and cars just started to develop. Such trains exist, but you cannot buy tickets for them at a regular ticket office. They take tourists on special routes, combining luxury vacation in the compartment and entertainment on the way with exciting excursions at the stops.
 
-### Markdown
+![Branching](hotel1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Belmond Royal Scotsman, Scotland
 
-```markdown
-Syntax highlighted code block
+![Branching](hotel2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Train Belmond Royal Scotsman offers a wide variety of routes, helping to get acquainted with all facets of Scotland. Landscape lovers, lovers of ancient castles, golf lovers and gourmets - whisky lovers will find tours to their liking. The trip takes place in the most comfortable atmosphere: the cars are decorated in impeccable classical style with luxurious fabrics and beautiful mahogany panels. Life on the train flows in a leisurely rhythm, but you won't be bored on the way. Passengers are offered a spa cabin, an observation car with panoramic windows, and dishes are prepared by chefs trained by such culinary stars as Michel Roux, Raymond Blanc, and Charlie Trotter.
 
-- Bulleted
-- List
+2. Venice Simplon-Orient-Express, Europe
 
-1. Numbered
-2. List
+![Branching](hotel3.jpg)
 
-**Bold** and _Italic_ and `Code` text
+Venice Simplon-Orient-Express is the most famous composition, a true legend in the world of trains. Royalty, statesmen and various celebrities traveled on it, and writers and scriptwriters made it the place of their stories.
 
-[Link](url) and ![Image](src)
-```
+![Branching](hotel4.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The composition consists of ancient cars of the 20-30s of the XX century, restored and decorated in Art Deco style. The luxurious train's interior literally breathes with history and creates a special atmosphere of sophistication and elegance of a bygone era. High quality service, excellent dishes and exquisite wine list are the integral part of the trip. Dress code also creates magic atmosphere. Jeans are considered to be mauveton here, and it is customary to come to the restaurant's car for dinner in evening dresses and tuxedos with bow ties.
 
-### Jekyll Themes
+Inquisitive fact from Novate.ru: The first trip the Orient-Express train made on October 4, 1883. Soon it was turned into a luxury vehicle and traveled on the route until 1960. The train owes its revival to Agatha Christie and Sidney Lumet, who filmed the novel by the writer. Orient-Express is the same train in which the detective action "Murder on the Orient Express" was unfolding. Lumet managed to find two rare cars for filming the film. Later they were sold at an auction to James Sherwood. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daedica/travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Belmond Grand Hibernian, Ireland
 
-### Support or Contact
+![Branching](hotel5.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Train Belmond Grand Hibernian introduces travelers to the beauty of Ireland. The train itself is also decorated in national colors. A huge team of specialists worked over the design and the train turned out to be stylish, permeated with vintage luxury. Its interior features traditional for county ornaments, and carriages were named after them. Moreover, almost all furniture items are made by Irish craftsmen: from stone stand, decorating the observation car, to half-wool carpets.
+
+![Branching](hotel6.jpg)
